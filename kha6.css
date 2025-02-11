@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.mauxanh{
+    border: 2px solid rgb(46, 183, 46);
+    padding: 10px;
+    font-weight: 900;
+    text-align: center;
+}
+.example{
+    border-left: 10px solid;
+    border-color:hsl(157.55deg 94.22% 33.92%);
+    background-color: #fffaef;
+    padding: 10px;
+    line-height: 0,75;
+}
+.maudo1{
+    color: red;
+}
+.nutbam{
+    background-color: hsl(157.55deg 94.22% 33.92%);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;  
+}
+.mau2{
+    color: rgb(123, 48, 48);
+}
+.xanhbien{
+    color:rgb(56, 56, 220);
+}
+.mau1{
+    color: brown;
+}
