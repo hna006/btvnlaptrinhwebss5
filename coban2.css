@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0%
+}
+.title{
+    background-color: black;
+    color: white;
+}
+.content{
+    color: green;
+    font-size: 10px ;
+    font-weight: 500;
+
+}

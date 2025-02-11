@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.vachvang{
+    background-color: #d5ccb8;
+    border-left: 10px solid;
+    border-color: #decb51;
+    padding: 10px;
+}
+.tieude{
+    color: #3389c3;
+}
+

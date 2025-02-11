@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0%;
+
+}
+.daubang{
+    background-color: blue;
+    color:white;
+}
+.dong1{
+    background-color: grey;
+
+}
+.dong2{
+ background-color: white;
+}
+.dong3{
+    background-color: grey;
+}
+.cabang{
+    width:100%;
+    
+
+}
+.tieude{
+    background-color: grey;
+}
